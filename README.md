@@ -99,7 +99,7 @@ Contains mock data used to simulate conversations in the app. It is used for tes
 
 1. Clone the repository:
    ```bash
-   git clone  https://github.com/psbcg433/botai.git
+   git clone  https://github.com/yadav4646/BotAI.git
    cd boatit
    ```
 

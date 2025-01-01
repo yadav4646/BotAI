@@ -1,0 +1,11 @@
+.feedback_container
+{
+    display: none;
+}
+
+.ai_reply:hover .feedback_container
+{
+    display: block;
+}
+
+
